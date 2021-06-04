@@ -1,0 +1,9 @@
+"1-Crear modulo shared.module.ts
+
+2-crear component sidebar.component.ts
+
+3 exportar sidebar en el modulo creado
+
+4 importar el shared.module dentro del app.module.ts
+
+5-<app-sidebar></app-sidebar> en el app.component.html
